@@ -1,4 +1,4 @@
-# military equipment insights through machine learning
+# Military Equipment Insights Through Machine Learning
 
 To run the notebook, you'll need the appropriate dependencies, and retrieve the dataset from your saved directory. 
 
